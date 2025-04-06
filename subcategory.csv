@@ -1,0 +1,25 @@
+Category,Sub_Category,Growth_Rate
+"0100 Wireless Phones","0191 Connected Wearables",NULL
+"0400 Computer Peripherals","0460 Mice - DELETED",0
+"0400 Computer Peripherals","0435 Webcams - DELETED",0.03641165519331515
+"0400 Computer Peripherals","0499 Computer Peripherals Other - DELETED",0.055678226609516386
+"0400 Computer Peripherals","0455 Keyboards - DELETED",0.35991687232108066
+"0400 Computer Peripherals","0430 Computer Headsets and Mics - DELETED",0.5479932458760878
+"1000 Inputs","1008 Computer Peripherals Other",0
+"1000 Inputs","1007 Other Input Devices",0.005862178204105664
+"1000 Inputs","1006 Gamepads and Controllers",0.026914579252472964
+"1000 Inputs","1003 Computer Speakers",0.06940747690016573
+"1000 Inputs","1005 Webcams",0.10259677687154241
+"1000 Inputs","1004 Computer Headsets and Mics",0.13375850677944867
+"1000 Inputs","1002 Mice",0.31517382300601904
+"1000 Inputs","1001 Keyboards",0.34628665898624555
+"10800 Xbox One Accessories","10830 Headsets",1
+"1500 Tablet Accessories","1504 Tablet Stands and Docks",0.01082201243380152
+"1500 Tablet Accessories","1501 Tablet Carrying Cases & Style",0.04136925320439021
+"1500 Tablet Accessories","1590 Other Tablet Accessories",0.9478087343618082
+"1600 Sony PSP Games and Software","1610 Classic Games & RetroArcade",1
+"5000 Portable Media Players","5010 Other Portable Audio",0.06946112350126761
+"5000 Portable Media Players","5045 Media Speaker Systems",0.9305388764987323
+"5300 Headphones","5310 Headphones",1
+"5600 Video Components","5610 A/V Remote Controls",1
+"6200 PC Accessories","6230 Headsets",1
